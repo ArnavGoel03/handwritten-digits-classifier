@@ -1,5 +1,7 @@
 # Handwritten Digits Classifier
 
+[![CI](https://github.com/ArnavGoel03/handwritten-digits-classifier/actions/workflows/ci.yml/badge.svg)](https://github.com/ArnavGoel03/handwritten-digits-classifier/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 A small, clean TensorFlow/Keras implementation of a CNN that classifies handwritten digits (0–9) from the MNIST dataset.
 
 Originally written in Year 11 as part of the AI elective at Delhi Public School, R. K. Puram — this repository is the cleaned-up, reproducible version.
