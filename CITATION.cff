@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Handwritten Digits Classifier: A CNN for MNIST in TensorFlow/Keras"
+abstract: >-
+  A compact convolutional neural network that classifies handwritten digits
+  (0–9) from the MNIST dataset. Two convolutional blocks feed a dense head
+  with dropout regularization, trained on 60,000 images and evaluated on the
+  held-out 10,000-image test set. Reaches approximately 99.2% test accuracy
+  in under a minute on CPU. Originally written in Year 11 as part of the AI
+  elective at Delhi Public School, R. K. Puram; this repository is the
+  cleaned-up, reproducible version.
+type: software
+authors:
+  - family-names: Goel
+    given-names: Arnav
+    orcid: "https://orcid.org/0009-0007-6477-6501"
+    affiliation: "University of California, San Diego"
+    email: a2goel@ucsd.edu
+repository-code: "https://github.com/ArnavGoel03/handwritten-digits-classifier"
+license: MIT
+keywords:
+  - machine learning
+  - deep learning
+  - convolutional neural network
+  - MNIST
+  - image classification
+  - TensorFlow
+  - Keras
+  - computer vision
